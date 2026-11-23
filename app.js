@@ -20,7 +20,7 @@
     SETTINGS: "idiom300_user_settings_v1"       // { soundEnabled: boolean, fontSize: 'normal'|'large'|'xlarge' }
   };
 
-  let PUBLIC_GAME_URL = "https://litter.catbox.moe/b4xt3n.html";
+  let PUBLIC_GAME_URL = "https://sangmin1254-boop.github.io/idiom-master-300/";
 
   const state = {
     activeTab: "quiz",
